@@ -6,4 +6,4 @@ jspm_packages
 .serverless
 
 # Vscode workspace
-*-workspace
+serverless-workspace.code-workspace
